@@ -1,1 +1,3 @@
-This is Kristines first file that is going to be pushed into github
+This is Kristines Marijas first file that is going to be pushed into github
+
+Now I am changing the file 
